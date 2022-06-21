@@ -1,0 +1,34 @@
+body {
+  background-color: lightblue;
+}
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+table, th, td {
+  border: 2px solid green;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 3px 3px 23px black;
+}
+
+#editor-title {
+  text-align: center;
+  color: black;
+  text-shadow: 0px 0px 0px black;
+  margin-bottom: 0px;
+}
+#editor {
+  margin: auto;
+  align-content: center;
+  width: 70%;
+  height: 15rem;
+  box-shadow: 3px 3px 23px black;
+}
+  img {
+    display: block;
+    max-width: 90%;
+    margin: 2rem auto;
+  }
