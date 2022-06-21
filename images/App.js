@@ -118,14 +118,14 @@ Table Data | Table Data | Table Data
 1. You can make numbered lists
 1. Use just 1s if you want!
 1. See how easy that was?
-1. Oh and you can add images like this:
+<h3>Oh and you can add images like this:</h3>
 
 
 <img  width="400px" src="https://jeremyduncan.github.io/devry-projects/assets/img/Jeremy_duncan_logo_portfolio.png" />
 
 
 
-or like this:
+<h3>or like this:</h3>
 
 ![Jeremy Duncan's Logo](https://jeremyduncan.github.io/devry-projects/assets/img/Jeremy_duncan_logo_portfolio.png)
 
