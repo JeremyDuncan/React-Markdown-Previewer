@@ -37,4 +37,8 @@ table, th, td {
     display: block;
     max-width: 90%;
     margin: 2rem auto;
+    box-shadow: 3px 3px 23px black;
+    background-color: black;
+    border-radius: 15px;
+
   }
