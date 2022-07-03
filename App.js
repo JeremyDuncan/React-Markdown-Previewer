@@ -63,6 +63,11 @@ class Preview extends React.Component {
       <div>
       <h1 id="markdown-preview-title">Markdown Preview</h1>
       <div dangerouslySetInnerHTML={{ __html: marked(this.props.editorInput, { renderer: renderer })}} id="preview" />
+
+      <div className="footer">
+          <div id="name">Jeremy Duncan &copy; 2022</div>
+          <div id="page"><a href="https://github.com/JeremyDuncan">Jeremy's GitHub</a> </div>
+        </div>
       </div>
     );
   }
