@@ -42,3 +42,8 @@ table, th, td {
     border-radius: 15px;
 
   }
+  .footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+  } 
